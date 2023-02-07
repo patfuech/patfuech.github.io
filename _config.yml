@@ -19,7 +19,7 @@ timezone: America/New York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Patrick Fuechsel's Portfolio/Blog                           # the main title
+title: Patrick Fuechsel's Portfolio                           # the main title
 
 tagline: "If you ain't clacking, you ain't hacking."   # it will display as the sub-title
 
